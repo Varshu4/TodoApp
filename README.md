@@ -1,4 +1,3 @@
-# TodoApp
 # To-Do App using React
 
 This is a simple To-Do application built with React. It allows users to add, complete, and delete tasks. 
