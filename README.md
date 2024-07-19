@@ -59,4 +59,4 @@ This is a simple To-Do application built with React. It allows users to add, com
    -  - Locate `App.jsx` in the `src` folder and clear out the default values to implement your project
    - Create a new folder named `components` inside the `src` folder.
 
--   
+
